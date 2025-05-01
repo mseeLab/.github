@@ -1,4 +1,6 @@
-# The Multiscale Evolutionary Engineering Lab at Cornell University
+# The Multiscale Evolutionary Engineering Lab
+
+The Multiscale Evolutionary Engineering Lab at Cornell University
 
 synthetic biology + simulation
 mentorship + metascience
