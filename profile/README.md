@@ -2,7 +2,7 @@
 
 The Multiscale Evolutionary Engineering Lab at Cornell University
 
-synthetic biology + simulation
+synthetic biology + simulation<br />
 mentorship + metascience
 
 Quantifying evolutionary likelihood for bioengineering through experimental and computational models.
